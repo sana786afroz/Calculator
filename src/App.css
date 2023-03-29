@@ -1,0 +1,49 @@
+
+ #output{
+  background-color: black;
+  color: white;
+ 
+  font-size: 3rem;
+  width: 31.7rem;
+  height: 6.5rem;
+  text-align: center;
+ }
+ .button{
+ 
+ height: 8rem;
+ width: 8rem;
+ font-size: 3rem;
+ 
+ }
+ .main{
+  
+  width: 32rem;
+  margin: 100px auto;
+  
+ }
+ .clear{
+  
+  width: 32rem;
+  height: 4.4rem;
+  margin-right: 2rem;
+  font-size: 3rem;
+ }
+ 
+ .operation{
+  border: 0.1rem solid ;
+  display: flex;
+  flex-direction: column;
+  width: 5rem;
+  margin-left: 24rem;
+  justify-content: center;
+ }
+.opt{
+  
+  height: 8rem;
+  width: 8rem;
+  font-size: 3rem;
+ background-color: rgb(243, 151, 46);
+ color: wheat;
+
+ 
+}
